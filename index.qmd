@@ -3,17 +3,32 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/spiderman_wave.gif
 ---
 
 :::{#me}
 
+I'm the Web-Slinger, the Wall-Crawler, and your friendly neighborhood hero. By day, I'm a down-on-my-luck scientist perpetually juggling deadlines and debt. But a freak accident gave me incredible powers, and the loss of a loved one taught me that "with great power comes great responsibility". Now, I use my scientific mind and arachnid abilities to protect the innocent and crack a few jokes along the way. Balancing the two sides of my life is a constant, messy struggle, but it's a sacrifice I'll always make.
+
+My life isn't easy; I struggle with bills and things often don't go my way. But I've learned that you can't let your struggles stop you from doing the right thing. It’s this everyman quality that allows me to connect with the city's regular people as the masked hero they sometimes see swinging by.
+
 ## Goals
+
+* Saving innocent people
+* Not dying of hunger
+* Maintaining to have a roof over my head
+
 
 ## Education
 
+* Lifelong learner but currently enrolled into Biochemistry PhD program
+
 ## Experience
+
+* Delivered Pizza during College
+* Currently working as a photographer in The Daily Bugle 
+* Saved New-York many times (Trust Me)
 
 :::
 
-Thanks for checking out my web site!
+Please don't forget to checkout my projects. Thanks for checking out my web site!

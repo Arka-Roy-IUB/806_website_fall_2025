@@ -1,23 +1,58 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Web-Shooter: Mk. IV (Ongoing Development)\nThis project details the continuous research and development behind Spider-Man’s iconic web-shooter technology.\n\nProject Summary: This is the fourth major iteration of the wearable, wrist-mounted web-fluid dispersal device. The focus of this version is on enhanced efficiency and increased versatility. Previous models had issues with fluid dispersal rates and user-interface limitations.\nOutcome: The project has resulted in a more reliable and eco-friendly web-shooter, proving its effectiveness in countless field tests across New York City."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Web-Shooter: Mk. IV (Ongoing Development)\nThis project details the continuous research and development behind Spider-Man’s iconic web-shooter technology.\n\nProject Summary: This is the fourth major iteration of the wearable, wrist-mounted web-fluid dispersal device. The focus of this version is on enhanced efficiency and increased versatility. Previous models had issues with fluid dispersal rates and user-interface limitations.\nOutcome: The project has resulted in a more reliable and eco-friendly web-shooter, proving its effectiveness in countless field tests across New York City."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nEnhanced Spider-Tracer Prototype\nThis project documents the creation of a more advanced, discreet, and multi-functional tracking device for crime detection and asset recovery.\n\nProject Summary: The original tracers were effective but limited in range and features. This prototype adds new capabilities.\nOutcome: The enhanced tracer has been deployed successfully in several field missions, resulting in the recovery of stolen goods and the apprehension of criminal masterminds."
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nSpider-Bot: Autonomous Surveillance & Rescue System\nThis project outlines the development of a small, mobile, and intelligent robot designed to aid in search-and-rescue operations and reconnaissance.\n\nProject Summary: The Spider-Bot is an autonomous drone designed to navigate complex urban environments. It was created to provide a safer way to assess dangerous situations and assist in reaching individuals trapped in collapsed structures or inaccessible areas.\nOutcome: The Spider-Bot has been successfully tested in controlled simulations and has been deployed in several low-stakes situations, proving its potential as a valuable, non-lethal tool for urban defense."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I’m the Web-Slinger, the Wall-Crawler, and your friendly neighborhood hero. By day, I’m a down-on-my-luck scientist perpetually juggling deadlines and debt. But a freak accident gave me incredible powers, and the loss of a loved one taught me that “with great power comes great responsibility”. Now, I use my scientific mind and arachnid abilities to protect the innocent and crack a few jokes along the way. Balancing the two sides of my life is a constant, messy struggle, but it’s a sacrifice I’ll always make.\nMy life isn’t easy; I struggle with bills and things often don’t go my way. But I’ve learned that you can’t let your struggles stop you from doing the right thing. It’s this everyman quality that allows me to connect with the city’s regular people as the masked hero they sometimes see swinging by.\n\n\n\nSaving innocent people\nNot dying of hunger\nMaintaining to have a roof over my head\n\n\n\n\n\nLifelong learner but currently enrolled into Biochemistry PhD program\n\n\n\n\n\nDelivered Pizza during College\nCurrently working as a photographer in The Daily Bugle\nSaved New-York many times (Trust Me)\nPlease don’t forget to checkout my projects.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Saving innocent people\nNot dying of hunger\nMaintaining to have a roof over my head"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Lifelong learner but currently enrolled into Biochemistry PhD program"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Delivered Pizza during College\nCurrently working as a photographer in The Daily Bugle\nSaved New-York many times (Trust Me)"
   }
 ]

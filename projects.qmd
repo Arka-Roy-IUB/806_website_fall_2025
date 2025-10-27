@@ -3,7 +3,28 @@ title: "Projects"
 ---
 
 ## Project 1
+**Web-Shooter: Mk. IV (Ongoing Development)**
+
+This project details the continuous research and development behind Spider-Man's iconic web-shooter technology.
+
+* **Project Summary**: This is the fourth major iteration of the wearable, wrist-mounted web-fluid dispersal device. The focus of this version is on enhanced efficiency and increased versatility. Previous models had issues with fluid dispersal rates and user-interface limitations.
+
+* **Outcome**: The project has resulted in a more reliable and eco-friendly web-shooter, proving its effectiveness in countless field tests across New York City.
 
 ## Project 2
+**Enhanced Spider-Tracer Prototype**
+
+This project documents the creation of a more advanced, discreet, and multi-functional tracking device for crime detection and asset recovery.
+
+* **Project Summary**: The original tracers were effective but limited in range and features. This prototype adds new capabilities.
+
+* **Outcome**: The enhanced tracer has been deployed successfully in several field missions, resulting in the recovery of stolen goods and the apprehension of criminal masterminds.
+
 
 ## Project 3
+**Spider-Bot: Autonomous Surveillance & Rescue System**
+
+This project outlines the development of a small, mobile, and intelligent robot designed to aid in search-and-rescue operations and reconnaissance.
+
+* **Project Summary**: The Spider-Bot is an autonomous drone designed to navigate complex urban environments. It was created to provide a safer way to assess dangerous situations and assist in reaching individuals trapped in collapsed structures or inaccessible areas.
+* **Outcome**: The Spider-Bot has been successfully tested in controlled simulations and has been deployed in several low-stakes situations, proving its potential as a valuable, non-lethal tool for urban defense.
